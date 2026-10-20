@@ -1,0 +1,6 @@
+{
+  "name": "CAMPANNETSMART1",
+  "description": "Bilingual Marksheet Photos Calculation Engine & Report Card Generator for the 2018 Competence-Based Curriculum",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
